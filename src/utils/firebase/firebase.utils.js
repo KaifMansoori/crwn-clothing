@@ -8,12 +8,12 @@ import {
 import { getFirestore, doc, getDoc, setDoc } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBrfpkI7H7tpKA3VMP-egTdk5yaNKXUBwI",
-  authDomain: "crwn-clothing-db-ba583.firebaseapp.com",
-  projectId: "crwn-clothing-db-ba583",
-  storageBucket: "crwn-clothing-db-ba583.appspot.com",
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
   messagingSenderId: "213659510318",
-  appId: "1:213659510318:web:0b25f71c1873d9518121bf",
+  appId: "",
 };
 
 const firebaseApp = initializeApp(firebaseConfig);
